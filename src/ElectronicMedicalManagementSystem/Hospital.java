@@ -33,5 +33,6 @@ public class Hospital {
 
     public void setHospitalAddress(String hospitalAddress) {
         this.hospitalAddress = hospitalAddress;
+
     }
 }
