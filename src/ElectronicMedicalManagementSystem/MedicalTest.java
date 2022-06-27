@@ -23,4 +23,5 @@ public class MedicalTest {
     public void setTestType(String testType) {
         this.testType = testType;
     }
+
 }
